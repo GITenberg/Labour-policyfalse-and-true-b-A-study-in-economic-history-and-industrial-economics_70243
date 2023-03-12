@@ -1,0 +1,25 @@
+_repo: Labour-policyfalse-and-true-b-A-study-in-economic-history-and-industrial-economics_70243
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macassey, Lynden
+    gutenberg_agent_id: '55665'
+    url: http://www.gutenberg.org/2009/agents/55665
+description: ''
+gutenberg_issued: '2023-03-08'
+identifiers:
+  gutenberg: '70243'
+language: en
+pgterms:marc905: 20061103025638macassey
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: David Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bThornton Butterworth Ltd, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Labour policy—false and true : $b A study in economic history and industrial
+  economics'
+url: http://www.gutenberg.org/ebooks/70243
